@@ -1,4 +1,4 @@
-package com.qatraining;
+package com.turntabl;
 
 public class DivisionByZeroException extends Exception {
 

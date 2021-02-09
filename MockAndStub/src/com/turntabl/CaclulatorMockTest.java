@@ -1,4 +1,4 @@
-package com.qatraining;
+package com.turntabl;
 
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.verify;
